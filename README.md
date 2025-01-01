@@ -16,4 +16,21 @@ prosthetic
 
 ## Courses
 ### ENGR 133
+- Data analytics (calculations, descriptive statistics, histograms, probability, charts, and regression).
+- Communication (reports, peer review, and information literacy).
+- Teaming (team dynamics, team member roles, diversity, and code of cooperation).
+- Team projects (modeling and design).
+- Excel basics (calculations, importing data, relational operators, plotting data).
+- Python basics (scripts, data types, importing data, relational operators, logical operators, plotting data, user-defined functions, selection structures, while loops, for loops, and nested loops).
+- MATLAB basics (calculations, scripts, importing data, publishing code, relational operators, logical operators, plotting data, user-defined functions, selection structures, while loops, for loops, and nested loops).
+
+ 
 ### ME 270
+- Vector operations, forces and couples.
+- Free body diagrams, equilibrium of particles and rigid bodies.
+- Distributed forces.
+- Centers of gravity and centroids.
+- Friction.
+- Trusses, frames, and machines.
+- Internal reactions resulting from axial, shear, torsional, and bending loading.
+- Stress and strain analyses and elementary failure criteria.
