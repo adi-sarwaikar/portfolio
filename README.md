@@ -15,7 +15,7 @@ motors connected to Arduino Mega
 prosthetic
 
 ## Courses
-### ENGR 133 - EPICS
+### ENGR 133 - EPICS Transforming Ideas to Innovation
 - Data analytics (calculations, descriptive statistics, histograms, probability, charts, and regression).
 - Communication (reports, peer review, and information literacy).
 - Teaming (team dynamics, team member roles, diversity, and code of cooperation).
