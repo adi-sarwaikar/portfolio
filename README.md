@@ -15,7 +15,7 @@ motors connected to Arduino Mega
 prosthetic
 
 ## Courses
-### ENGR 133
+### ENGR 133 - EPICS
 - Data analytics (calculations, descriptive statistics, histograms, probability, charts, and regression).
 - Communication (reports, peer review, and information literacy).
 - Teaming (team dynamics, team member roles, diversity, and code of cooperation).
@@ -25,7 +25,7 @@ prosthetic
 - MATLAB basics (calculations, scripts, importing data, publishing code, relational operators, logical operators, plotting data, user-defined functions, selection structures, while loops, for loops, and nested loops).
 
  
-### ME 270
+### ME 270 - Basic Mechanics
 - Vector operations, forces and couples.
 - Free body diagrams, equilibrium of particles and rigid bodies.
 - Distributed forces.
