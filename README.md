@@ -6,7 +6,7 @@
   - Worked with CAD software to brainstorm/design drones to compete in the NIST competition
   - Presented work/research in the Fall Undergraduate Research Expo
 
-[Abstract on Page 396](https://www.purdue.edu/undergrad-research/conferences/fall/archive/documents/FallExpo_Abstracts2024.pdf)
+[Page 396 of https://www.purdue.edu/undergrad-research/conferences/fall/archive/documents/FallExpo_Abstracts2024.pdf](https://www.purdue.edu/undergrad-research/conferences/fall/archive/documents/FallExpo_Abstracts2024.pdf)
 ### Airfoil Angle of Attack Optimizer
 - Used XFOIL to run airfoil simulations at various angles of attack for different NACA 4-digit airfoils
 - MATLAB asks user which airfoil they would like to analyze
