@@ -10,6 +10,10 @@
 - Used XFOIL to run airfoil simulations at various angles of attack for different NACA 4-digit airfoils
 - Passed data through MATLAB to maximize lift, minimize drag, and maximize the ratio
 
+![AOA_xfoil](/assets/img/angle_of_attack_xfoil.png)
+
+![AOA_graphs](/assets/img/angle_of_attack_graphs.png)
+
 ### Semi-autonomous 3D Printed Prosthetic Hand
 - Designed,3D printed, and assembled prosthetic hand-controlled through fishing line and stepper
 motors connected to Arduino Mega
