@@ -16,7 +16,7 @@ Page 396 of [https://www.purdue.edu/undergrad-research/conferences/fall/archive/
 - MATLAB asks user which airfoil they would like to analyze
 - Creates `commands.inp` which is a list of commands for XFOIL
 - These commands are then passed into XFOIL resulting in the following process taking place
-![AOA_xfoil](/assets/img/angle_of_attack_xfoil.png | width=100)
+![AOA_xfoil](/assets/img/angle_of_attack_xfoil.png|width=100)
 - XFOIL returns the coefficients of lift and drag at the various angles of attack as `output.txt`
 - MATLAB parses the data from the text file and finds optimal lift, optimal drag, and optimal lift-to-drag ratio
 - Results are displayed in the following graphs:
