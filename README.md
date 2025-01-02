@@ -13,7 +13,7 @@
 motors connected to Arduino Mega
 - Uses camera and machine learning to identify hand signs of a real hand and replicate them on the
 prosthetic
-
+![3D_Hand_Real](/portfolio/assets/3d_hand_real.jpg)
 ## Courses
 ### ENGR 133 - EPICS Transforming Ideas to Innovation
 - Data analytics (calculations, descriptive statistics, histograms, probability, charts, and regression).
