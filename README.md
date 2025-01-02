@@ -9,10 +9,13 @@
 [Abstract on Page 396](https://www.purdue.edu/undergrad-research/conferences/fall/archive/documents/FallExpo_Abstracts2024.pdf)
 ### Airfoil Angle of Attack Optimizer
 - Used XFOIL to run airfoil simulations at various angles of attack for different NACA 4-digit airfoils
-- Passed data through MATLAB to maximize lift, minimize drag, and maximize the ratio
-
+- MATLAB asks user which airfoil they would like to analyze
+- Creates `commands.inp` which is a list of commands for XFOIL
+- These commands are then passed into XFOIL resulting in the following process taking place
 ![AOA_xfoil](/assets/img/angle_of_attack_xfoil.png)
-
+- XFOIL returns the coefficients of lift and drag at the various angles of attack as `output.txt`
+- MATLAB parses the data from the text file and finds optimal lift, optimal drag, and optimal lift to drag ratio
+- Results are displayed in the following graphs:
 ![AOA_graphs](/assets/img/angle_of_attack_graphs.png)
 
 ### Semi-autonomous 3D Printed Prosthetic Hand
