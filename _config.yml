@@ -1,5 +1,5 @@
 title: Adi Sarwaikar
 logo: assets/img/pfp.jpg
-#description: text below the logo
-show_downloads: false
+description: Hi! My name is Aditya Sarwaikar and I am an aspiring engineer. As I continue to do more work I plan on updating this page with projects I have completed. 
+show_downloads: true
 theme: jekyll-theme-minimal
