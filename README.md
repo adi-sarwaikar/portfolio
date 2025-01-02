@@ -26,6 +26,7 @@ Page 396 of [https://www.purdue.edu/undergrad-research/conferences/fall/archive/
   - Simulation Software (XFOIL)
   - Software Engineering (MATLAB, XFOIL)
   - Data Presentation (MATLAB)
+
 ### Semi-autonomous 3D Printed Prosthetic Hand
 - Designed a hand with CAD software that could mimic the movements of a normal hand.
 - The design was 3D printed and assembled with screws and nuts at each joint.
@@ -53,7 +54,6 @@ Page 396 of [https://www.purdue.edu/undergrad-research/conferences/fall/archive/
 - Python basics (scripts, data types, importing data, relational operators, logical operators, plotting data, user-defined functions, selection structures, while loops, for loops, and nested loops).
 - MATLAB basics (calculations, scripts, importing data, publishing code, relational operators, logical operators, plotting data, user-defined functions, selection structures, while loops, for loops, and nested loops).
 
- 
 ### ME 270 - Basic Mechanics
 - Vector operations, forces and couples.
 - Free body diagrams, equilibrium of particles and rigid bodies.
