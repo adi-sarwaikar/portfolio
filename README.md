@@ -63,3 +63,8 @@ Page 396 of [https://www.purdue.edu/undergrad-research/conferences/fall/archive/
 - Trusses, frames, and machines.
 - Internal reactions resulting from axial, shear, torsional, and bending loading.
 - Stress and strain analyses and elementary failure criteria.
+
+### MFET 163 - Graphic Communication & Spatial Analysis
+- Effectively utilize Siemens NX to model to design for change by infusing design intent through the use of dimensioning schemes, parameters, and design tables
+- Worked with a Product Data Management (PDM) system (Siemens Teamcenter) to support design, collaboration, and geometry re-use to simulate an industry PLM setting
+- Followed Engineering Change Process leveraging Engineering Change Orders (ECO) and approval workflow in PDM to submit all work for the course for evaluation and feedback
