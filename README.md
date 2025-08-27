@@ -45,6 +45,23 @@ Page 396 of [https://www.purdue.edu/undergrad-research/conferences/fall/archive/
   - Machine Learning/AI (Python)
 
 ## Courses
+### AAE 251 - Introduction to Aerospace Design
+- Name and describe the parts of aerospace systems and their missions
+- Create mission, needs, and requirements statements for complex aerospace systems
+- Derive and apply equations that describe fluid flow to predict aerodynamic performance
+- Derive and apply equations that describe the motions of bodies in space to design launch and orbital trajectories
+- Derive and apply equations that describe rocket thrust to predict rocket performance
+- Use system‐level requirements and derive and apply appropriate equations to develop conceptual rocket designs
+- Use system‐level requirements and derive and apply appropriate equations to develop conceptual aircraft designs
+
+### AAE 203 - Aeromechanics I
+Fundamental concepts and principles of bodies in motion, with applications to aeronautical and astronautical problems. Subjects covered include rectilinear motion, curvilinear motion, rotation, and plane motion. Static equilibrium and quasistatic equilibrium are treated as a part of motion in which the acceleration is zero.
+- Compute velocities and accelerations for any type of motion.
+- Compute angular velocities and accelerations of rigid bodies.
+- Model forces and apply Newton’s Laws in particle dynamics problems.
+- Model forces and solve general statics of bodies problems
+
+- 
 ### ENGR 133 - EPICS Transforming Ideas to Innovation
 - Data analytics (calculations, descriptive statistics, histograms, probability, charts, and regression).
 - Communication (reports, peer review, and information literacy).
