@@ -1,19 +1,40 @@
 # Adi's Engineering Portfolio
 
 ## Projects
+### Purdue Undergraduate Research Propulsion Laboratory
+- Electric Propulsion
+  - Assisting in the creation and testing of solenoids to act as electromagnets in a gridded ion thruster
+  - The magnets ensure that no ions hit the chamber walls, preventing erosion
+- Rotating Detonation Engine
+  - Simulating a rotating detonation engine
+  - Comparing the use of slot injectors
+ 
+  
+### AERO: Aerodynamics Research Team
+- Simulating different injectors to test for mixing efficiency and atomization using computational fluid dynamics 
+- Analyzing the effect of using a Tesla valve to prevent backflow into the injector
+- Technical Skills Used:
+  - CFD (ANSYS Fluent)
+
+### Purdue Orbital
+- Sisyphus
+  - BATES Motor (Ballistic Test and Evaluation System) used to characterize our solid rocket propellants
+  - Using MATLAB to simulate rocket burns to prevent errors during hot fires
+  - Hotfire test data to make sure the characterization function works correctly
+- Technical Skills Used:
+  - Simulation (MATLAB)
+  - Data Presentation (MATLAB)
+
 ### Unmanned Aerial Systems – Air Force Research Laboratory
 - The Emergency Access and Ground-Link Explorer (EAGLE)
   - Worked with CAD software to brainstorm/design drones to compete in the NIST competition
   - Presented work/research in the Fall Undergraduate Research Expo
   - Page 396 of [Fall Expo Abstracts](https://www.purdue.edu/undergrad-research/conferences/fall/archive/documents/FallExpo_Abstracts2024.pdf)
-
- 
 - No More Tassel Hassle
   - Designed a drone to identify uncut tassels in corn fields to aid farmers in optimizing crop yields
   - Led the team in hardware design for the drone and assembled it using parts from the Purdue warehouse
   - 2025 Farm Robotics Challenge Award Winner
   - Check out the design and video [here](https://www.farmroboticschallenge.ai/2025results/v/purdueuniversity?categoryId=68275eac0eabc12b241b8077)!
-
 - Technical Skills Used:
   - CAD (Autodesk Fusion 360)
   - CAE (Autodesk Fusion 360)
