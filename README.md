@@ -5,16 +5,14 @@
 - The Emergency Access and Ground-Link Explorer (EAGLE)
   - Worked with CAD software to brainstorm/design drones to compete in the NIST competition
   - Presented work/research in the Fall Undergraduate Research Expo
-
-Page 396 of [Fall Expo Abstracts](https://www.purdue.edu/undergrad-research/conferences/fall/archive/documents/FallExpo_Abstracts2024.pdf)
+  - Page 396 of [Fall Expo Abstracts](https://www.purdue.edu/undergrad-research/conferences/fall/archive/documents/FallExpo_Abstracts2024.pdf)
 
  
 - No More Tassel Hassle
   - Designed a drone to identify uncut tassels in corn fields to aid farmers in optimizing crop yields
   - Led the team in hardware design for the drone and assembled it using parts from the Purdue warehouse
   - 2025 Farm Robotics Challenge Award Winner
-
-Check out the design and video [here](https://www.farmroboticschallenge.ai/2025results/v/purdueuniversity?categoryId=68275eac0eabc12b241b8077)!
+  - Check out the design and video [here](https://www.farmroboticschallenge.ai/2025results/v/purdueuniversity?categoryId=68275eac0eabc12b241b8077)!
 
 - Technical Skills Used:
   - CAD (Autodesk Fusion 360)
