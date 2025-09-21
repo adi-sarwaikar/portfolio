@@ -11,6 +11,14 @@ Page 396 of [https://www.purdue.edu/undergrad-research/conferences/fall/archive/
   - CAD (Autodesk Fusion 360)
   - CAE (Autodesk Fusion 360)
   - Software Engineering (Python)
+ 
+- No More Tassel Hassle
+  - Designed a drone to identify uncut tassels in corn fields to aid farmers in optimizing crop yields
+  - Led the team in hardware design for the drone and assembled it using parts from the Purdue warehouse
+  - 2025 Farm Robotics Challenge Award Winner
+
+Check out the design [here](https://www.farmroboticschallenge.ai/2025results/v/purdueuniversity?categoryId=68275eac0eabc12b241b8077)!
+    
 
 ### Airfoil Angle of Attack Optimizer
 - MATLAB asks user which airfoil they would like to analyze
