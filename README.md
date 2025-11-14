@@ -89,7 +89,6 @@ Fundamental concepts and principles of bodies in motion, with applications to ae
 - Model forces and apply Newton’s Laws in particle dynamics problems.
 - Model forces and solve general statics of bodies problems
 
-- 
 ### ENGR 133 - EPICS Transforming Ideas to Innovation
 - Data analytics (calculations, descriptive statistics, histograms, probability, charts, and regression).
 - Communication (reports, peer review, and information literacy).
