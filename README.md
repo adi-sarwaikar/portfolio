@@ -7,14 +7,15 @@
   - The magnets ensure that no ions hit the chamber walls, preventing erosion
 - Rotating Detonation Engine
   - Simulating a rotating detonation engine
-  - Comparing the use of slot injectors
+  - Specializing in the use of Tesla valves to prevent backflow and increase efficiency
  
   
 ### AERO: Aerodynamics Research Team
-- Simulating different injectors to test for mixing efficiency and atomization using computational fluid dynamics 
+- Optimizing the geometry of the Tesla valve in RDE injectors 
 - Analyzing the effect of using a Tesla valve to prevent backflow into the injector
 - Technical Skills Used:
   - CFD (ANSYS Fluent)
+  - Software Engineering (Python)
 
 ### Purdue Orbital
 - Sisyphus
