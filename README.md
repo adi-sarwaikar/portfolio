@@ -74,6 +74,31 @@
   - Machine Learning/AI (Python)
 
 ## Courses
+### AAE 333 - Fluid Mechanics
+- Calculate hydrostatic pressure distributions, forces, and moments.
+- Calculate aerodynamic forces and moments from pressure and shear stress distributions.
+- Apply similitude to scale data.
+- Apply global conservation of mass and momentum control volume analysis to engineering systems.
+- Apply Bernoulli’s equation to relate velocity and pressure.
+- Calculate velocity and pressure fields using potential theory.
+- Apply the Navier-Stokes Equations to obtain exact solutions and compute shear stress and other flow quantities.
+- Apply the Blasius Boundary Layer Solution and integral methods to obtain boundary-layerflow properties.
+
+### AAE 204 - Aeromechanics II
+- Describe the material behavior of deformable bodies when subjected to loads.
+- Create and use free-body diagrams to compute resultant support forces and moments.
+- Compute internal force and moment distributions.
+- Properly select and use materials based upon their mechanical properties.
+- Compute stresses, strains, deformation, and displacements of basic structural components.
+- Predict structural integrity based on the calculations.
+- Apply these ideas for analysis of components related to aerospace applications.
+
+### ME 200 - Thermodynamics
+- Successfully employ the systematic engineering approach to problem solving
+- Master applying the Law of Mass Conservation when analyzing thermodynamics problems
+- Proficient in the use of the 1st Law of Thermodynamics to perform energy accounting when solving thermodynamics problems
+- Competent user of the 2nd Law of Thermodynamics to perform entropy balance when solving thermodynamics problem
+
 ### AAE 251 - Introduction to Aerospace Design
 - Name and describe the parts of aerospace systems and their missions
 - Create mission, needs, and requirements statements for complex aerospace systems
