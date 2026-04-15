@@ -6,6 +6,8 @@
 - Worked on aerospike geometries to see the effect on the far field pressure
 - Presented poster in the Spring Research Conference
 ![Supersonics_Poster](/assets/img/supersonics_poster.png)
+- Technical Skills Used:
+  - CFD (ANSYS Fluent)
 
 ### Purdue Undergraduate Research Propulsion Laboratory
 - Optimizing the geometry of the Tesla valve in RDE injectors 
