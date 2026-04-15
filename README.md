@@ -5,7 +5,7 @@
 - Attempting to commercialize supersonic travel by optimizing aircraft nose geometry
 - Worked on aerospike geometries to see the effect on the far field pressure
 - Presented poster in the Spring Research Conference
-![Supersonics_Poster](/assets/img/Supersonics Poster Spring 2026.png)
+![Supersonics_Poster](/assets/img/supersonics_poster.png)
 
 ### Purdue Undergraduate Research Propulsion Laboratory
 - Optimizing the geometry of the Tesla valve in RDE injectors 
