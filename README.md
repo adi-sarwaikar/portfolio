@@ -1,16 +1,13 @@
 # Adi's Engineering Portfolio
 
 ## Projects
-### Purdue Undergraduate Research Propulsion Laboratory
-- Electric Propulsion
-  - Assisting in the creation and testing of solenoids to act as electromagnets in a gridded ion thruster
-  - The magnets ensure that no ions hit the chamber walls, preventing erosion
-- Rotating Detonation Engine
-  - Simulating a rotating detonation engine
-  - Specializing in the use of Tesla valves to prevent backflow and increase efficiency
- 
-  
 ### AERO: Aerodynamics Research Team
+- Attempting to commercialize supersonic travel by optimizing aircraft nose geometry
+- Worked on aerospike geometries to see the effect on the far field pressure
+- Presented poster in the Spring Research Conference
+![Supersonics_Poster](/assets/img/angle_of_attack_xfoil.png)
+
+### Purdue Undergraduate Research Propulsion Laboratory
 - Optimizing the geometry of the Tesla valve in RDE injectors 
 - Analyzing the effect of using a Tesla valve to prevent backflow into the injector
 - Technical Skills Used:
